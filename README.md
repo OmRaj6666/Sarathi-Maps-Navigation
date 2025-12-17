@@ -120,6 +120,18 @@ sarathi/
 flutter pub get
 flutter run
 ```
+##📦 Full Project Download (Google Drive)
+
+Due to GitHub’s file size limitations, the complete project files (≈2 GB) are hosted externally on Google Drive.
+
+👉 Download Project Folder:
+🔗 https://drive.google.com/drive/folders/1GuBmpC-G5axEt9RArS5w6IgluWHxebpb?usp=sharing
+
+📌 Access permission: Anyone with the link can view/download.
+
+
+
+
 
 ---
 
