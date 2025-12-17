@@ -56,10 +56,8 @@
 
 ## 📸 Screenshots
 
-> 📌 Store screenshots inside a `screenshots/` folder.
 
-```text
-screenshots/
+
 
 <img width="1470" height="956" alt="Screenshot 2025-12-17 at 11 47 25 PM" src="https://github.com/user-attachments/assets/3b5feb13-9772-4ffc-84be-a26e7e361786" />
 <img width="1470" height="956" alt="Screenshot 2025-12-17 at 11 48 25 PM" src="https://github.com/user-attachments/assets/22d386f4-9d95-4c5d-b320-6d99efc26ce1" />
@@ -72,13 +70,13 @@ screenshots/
 
 ## 🏗 System Architecture
 
-### 📐 High-Level Architecture (PlantUML)
+
 
 <img width="666" height="504" alt="PP71JiCm38RlUGgh1mI7lG9QrOvfi6v8eUB2nSgiB2ABgyH3cX3lJaFAsCIXglF7d_p_pZm9HZaUl18dda1ZHDaxw718S0CR_70MnN606UXJ4Zf07StU2HavHb8AZN24Fb5KQa3pZfQWUl174OfG3qC5dmh0y67WG46WwbUmnXF5jt3xwdQM9C_H9XA5T5S19kXNryJe1HeE4jdx7sx9R3sDyfzQoAwv9jTiYlaE0zh24lki" src="https://github.com/user-attachments/assets/be920b16-1553-4302-bf8a-012dd0387b57" />
 
----
 
 ### 🔄 Location Flow Diagram (PlantUML)
+
 <img width="480" height="364" alt="NP3FIiGm4CRlUOfX3tlR5_0WAs8NOSiMqGSOqeyQJ3CncIg-lPEo2jrJo_Vx_eGvLkMYonoT1esWitZM88awg7-dFVLSFb3eBO-ie2xAjtFiLKogA2vRElYGEIdjkhYeDlFpZhZQPujFaDZgfQpuz7IvuI9JX2tckXhwXy6vjaA7UokZEthbJFtF_oETYOQioDWBFXTKfG5b3hKstC3XBtksY2uZQ6_vDAt_rm8RCaClNw17" src="https://github.com/user-attachments/assets/8cff375b-048d-46e4-8900-190d400cca52" />
 
 
