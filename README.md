@@ -124,8 +124,7 @@ flutter run
 
 Due to GitHub’s file size limitations, the complete project files (≈2 GB) are hosted externally on Google Drive.
 
-👉 Download Project Folder:
-🔗 https://drive.google.com/drive/folders/1GuBmpC-G5axEt9RArS5w6IgluWHxebpb?usp=sharing
+[![Download](https://img.shields.io/badge/Download-Google%20Drive-blue?logo=google-drive)] (https://drive.google.com/drive/folders/1GuBmpC-G5axEt9RArS5w6IgluWHxebpb?usp=sharing)
 
 📌 Access permission: Anyone with the link can view/download.
 
